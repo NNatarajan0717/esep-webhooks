@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natar\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
+    "C:\\Users\\natar\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natar\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
+    "C:\\Users\\natar\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natar\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\Users\\natar\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\Users\\natar\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\Users\\natar\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\natar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natar\\EsepWebhook\\src\\EsepWebhook\\obj\\",
+        "outputPath": "C:\\Users\\natar\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\natar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,6 +45,10 @@
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
               "version": "[2.3.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
